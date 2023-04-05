@@ -1,1 +1,1 @@
-
+Knack is a commercial database product using a relational model. Its website is: https://www.knack.com/. It is a cloud-based platform. And Java and Python can access to it by downloading a REST API to integrate with Knack.
