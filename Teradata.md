@@ -1,1 +1,1 @@
-Teradata is a commercial DBMS which uses a relational model. 
+Teradata is a commercial DBMS which uses a relational model. Teradata supports client/server model and it can be hosted in the cloud. And teradata can be accessed with Java or Python through a driver called Teradata JDBC and a connector called Teradata Python Module. These servers provide connections between Teradata and SQL statements.
