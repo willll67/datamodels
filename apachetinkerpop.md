@@ -1,1 +1,1 @@
-This database is called Apache Tinkerpop. It is a open source graph model database. 
+This database is called Apache Tinkerpop and its website is:https://tinkerpop.apache.org/. It is a open source data base using graph model. It can be hosted embedded and in client/server. Java and Python can access it with the TankerPop JAVA API and Gremlin-Python libraries. 
