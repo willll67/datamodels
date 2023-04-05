@@ -1,1 +1,1 @@
-MongoDB is a open-source database and its website is:https://www.mongodb.com/. It uses the document-oriented model 
+MongoDB is a open-source database and its website is:https://www.mongodb.com/. It uses the document-oriented model. It supports all the four hosting models: cloud, local, client/server and embedded. MongoDB uses MongoDB JAVA driver and PyMongo connector to enable jav and python access to it.
