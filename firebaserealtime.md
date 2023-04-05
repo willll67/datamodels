@@ -1,0 +1,1 @@
+Firebase Realtime is a commercial database which uses a document oriented data model. The website is:  https://firebase.google.com/products/realtime-database. It supports cloud and client/server model. 
