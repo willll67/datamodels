@@ -1,0 +1,1 @@
+InfluxDB database is a open-source model, but it uses a data model called tag-value model which is different from the previous ones. Its website is: https://www.influxdata.com/products/influxdb-overview/. It supports cloud, client/server and embedded hosting models. Java and Python can access it through InfluxDB's own library called influxDB-java and influxDB-python. 
