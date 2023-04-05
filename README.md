@@ -6,5 +6,5 @@
 - Knack: knack.md
 - MongoDB: mongodb.md
 - OrientDB: orientdb.md <br>
-The extra credit database:
+**The extra credit database:**
 - 
