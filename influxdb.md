@@ -1,2 +1,3 @@
 InfluxDB database is a open-source model, but it uses a data model called attribute model which is different from the previous ones. Its website is: https://www.influxdata.com/products/influxdb-overview/. It supports cloud, local, client/server and embedded hosting models. Java and Python can access it through InfluxDB's own library called influxDB-java and influxDB-python. <br>
+
 The data model attribute model is different from the other data models we've discussed. It can be used to show how the tables in a database that hold information about product attributes are related to each other. And it is sometimes more efficient when working with real-time data.
