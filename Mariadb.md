@@ -1,1 +1,1 @@
-This database product is called MariaDB and the website is: https://mariadb.org/. It's a open source database. And it's a relational model. MariaDB can be used in both an embedded and client/server model. Java and Python can access it through MariaDB connector.
+This database product is called MariaDB and the website is: https://mariadb.org/. It's a open source database. And it's a relational model. MariaDB can be used in both an embedded and client/server model. Java and Python can access it through downloading a MariaDB connector.
