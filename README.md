@@ -5,7 +5,7 @@
 - Amazon DynamoDB: amazondynamodb.md
 - Firebase Realtime: firebaserealtime.md
 - Knack: knack.md
-* MongoDB: mongodb.md
+- MongoDB: mongodb.md
 - OrientDB: orientdb.md<br>
 
 **The extra credit database:**
